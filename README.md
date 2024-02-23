@@ -1,14 +1,14 @@
-# This is a deep learning model using Transfer Learning from TensorFlow Hub with TensorFlow in Google Colab.
+# This deep learning model uses Transfer Learning from TensorFlow Hub with TensorFlow in Google Colab.
 
 ## 1. Problem
 
-Identifying the bread of a dog given an image of dogs.
+We are identifying the breed of a dog given an image of dogs.
 
-When I'm sitting at the cafe and I take a photo of a dog, I want to know what breed it is.
+When I'm sitting at the cafe and I take a picture of a dog, I want to know what breed it is.
 
 ## 2. Data
 
-The data we are using is from Kaggle's dog breed identification competetion.
+The data we are using is from Kaggle's dog breed identification competition.
 
 ## 3. Evaluation
 
